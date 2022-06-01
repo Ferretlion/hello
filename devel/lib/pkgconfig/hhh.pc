@@ -1,0 +1,8 @@
+prefix=/home/ros/.ssh/catkin_ws/devel
+
+Name: hhh
+Description: Description of hhh
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
